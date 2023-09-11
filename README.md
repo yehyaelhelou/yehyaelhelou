@@ -6,7 +6,7 @@
 
 💡 Beyond coding, I value collaboration and open-source contributions. My aim is to develop impactful apps that enhance user experiences.
 
-🌟 Let's connect and explore opportunities for exciting iOS projects. Feel free to peruse my repositories, or connect with me on LinkedIn for discussions and collaborations.
+🌟 Let's connect and explore opportunities for exciting iOS projects. Feel free to peruse my repositories, or connect with me on [LinkedIn](https://www.linkedin.com/in/yehyaelhelou/) for discussions and collaborations.
 
 📫 You can reach me at yehyaelhelou1@gmail.com. I'm always open to exciting new opportunities and projects.
 
